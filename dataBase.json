@@ -1,0 +1,181 @@
+{
+  "rooms": [
+    {
+      "name": "room a",
+      "hasNightstand": true,
+      "hasDresser": true,
+      "hasTable": true,
+      "roomPicIds": [
+        7,
+        8
+      ],
+      "id": 1
+    },
+    {
+      "name": "room b",
+      "hasNightstand": false,
+      "hasDresser": true,
+      "hasTable": true,
+      "roomPicIds": [
+        5
+      ],
+      "id": 2
+    },
+    {
+      "name": "room c",
+      "hasNightstand": false,
+      "hasDresser": false,
+      "hasTable": true,
+      "roomPicIds": [
+        4
+      ],
+      "id": 3
+    }
+  ],
+  "roomPics": [
+    {
+      "id": 1,
+      "url": "d_1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "d_2.jpg"
+    },
+    {
+      "id": 3,
+      "url": "d_3.jpg"
+    },
+    {
+      "id": 4,
+      "url": "d_4.jpg"
+    },
+    {
+      "id": 5,
+      "url": "n_1.jpg"
+    },
+    {
+      "id": 6,
+      "url": "n_2.jpg"
+    },
+    {
+      "id": 7,
+      "url": "n_3.jpg"
+    },
+    {
+      "id": 8,
+      "url": "nd_1.jpg"
+    },
+    {
+      "id": 9,
+      "url": "nd_2.jpg"
+    },
+    {
+      "id": 10,
+      "url": "nd_3.jpg"
+    },
+    {
+      "id": 11,
+      "url": "nd_4.jpg"
+    },
+    {
+      "id": 12,
+      "url": "t_1.jpg"
+    },
+    {
+      "id": 13,
+      "url": "t_2.jpg"
+    },
+    {
+      "id": 14,
+      "url": "t_3.jpg"
+    },
+    {
+      "id": 15,
+      "url": "t_4.jpg"
+    },
+    {
+      "id": 16,
+      "url": "td_1.jpg"
+    },
+    {
+      "id": 17,
+      "url": "td_2.jpg"
+    },
+    {
+      "id": 18,
+      "url": "td_3.jpg"
+    },
+    {
+      "id": 19,
+      "url": "td_4.jpg"
+    },
+    {
+      "id": 20,
+      "url": "tn_1.jpg"
+    },
+    {
+      "id": 21,
+      "url": "tn_2.jpg"
+    },
+    {
+      "id": 22,
+      "url": "tn_3.jpg"
+    },
+    {
+      "id": 23,
+      "url": "tn_4.jpg"
+    },
+    {
+      "id": 24,
+      "url": "tnd_1.jpg"
+    },
+    {
+      "id": 25,
+      "url": "tnd_2.jpg"
+    },
+    {
+      "id": 26,
+      "url": "tnd_3.jpg"
+    },
+    {
+      "id": 27,
+      "url": "tnd_4.jpg"
+    },
+    {
+      "id": 28,
+      "url": "b_1.jpg"
+    },
+    {
+      "id": 29,
+      "url": "b_2.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Joe",
+      "email": "j@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Dakota",
+      "email": "d@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Monica",
+      "email": "m@gmail.com"
+    },
+    {
+      "name": "Isaac",
+      "email": "i@g.com",
+      "id": 4
+    },
+    {
+      "name": "Rob Banks",
+      "email": "internationalbaddy66@gmail.com",
+      "id": 5
+    }
+  ],
+  "favorites": []
+}
